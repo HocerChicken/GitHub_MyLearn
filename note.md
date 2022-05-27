@@ -24,3 +24,4 @@
 -   git push
 -   git remote add alius
 -   git push {alius name} {master name}
+-   git clone
