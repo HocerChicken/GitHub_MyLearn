@@ -28,3 +28,4 @@
 -   git push {alius name} {branch name}
 -   git fetch {alius name}
 -   git checkout -b {brach name} {alius name}/{branch name}
+-   git pull
