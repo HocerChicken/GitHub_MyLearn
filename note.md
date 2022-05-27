@@ -10,6 +10,7 @@ Branch: Cành
 -   git add
 -   git reset
 -   git commit
+-   git commit -m 'note'
 -   git log
 -   git log --oneline
 -   git checkout {branch name}
