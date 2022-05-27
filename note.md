@@ -24,7 +24,7 @@
 -   git push
 -   git remote add alius
 -   git push {alius name} {master name}
--   git clone
+-   git clone {repo url}
 -   git push {alius name} {branch name}
 -   git fetch {alius name}
 -   git checkout -b {brach name} {alius name}/{branch name}
