@@ -1,10 +1,10 @@
 # Terns
 
-Repository (Rep): thư mục dự án
-Branch: Cành
-Conflit
-local
-remote
+-   Repository (Rep): thư mục dự án
+-   Branch: Cành
+-   Conflit
+-   local
+-   remote
 
 # Commands
 
@@ -22,3 +22,5 @@ remote
 -   git merge {branch name}
 -   git branch -d {branch name}
 -   git push
+-   git remote add alius
+-   git push {alius name} {master name}
