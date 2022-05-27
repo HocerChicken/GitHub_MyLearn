@@ -3,6 +3,8 @@
 Repository (Rep): thư mục dự án
 Branch: Cành
 Conflit
+local
+remote
 
 # Commands
 
@@ -19,3 +21,4 @@ Conflit
 -   git checkout -b {branch name}
 -   git merge {branch name}
 -   git branch -d {branch name}
+-   git push
