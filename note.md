@@ -23,3 +23,4 @@ rm -rf .git
 -   git push: push local repo up to remote repo
 -   git remote add {alias-name} link: to create alias
 -   git push {alias-name} {branch-name}
+-   git push -u {alias-name} {branch-name}
