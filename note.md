@@ -1,11 +1,12 @@
 # Terms
 
 Repository (Repo) (ex GITHub_MyLearn)
-Branch
+Branch as a branch of a tree
 
 # Commands
 
 rm -rf .git
+<<<<<<< HEAD
 
 -   git init: initialized your repo
 -   git status: show status
@@ -16,3 +17,13 @@ rm -rf .git
 -   git branch: with default is master.
 -   git merge {branch-name}: merge branch and master branch
 -   git branch -d {branch-name}: delete a branch
+=======
+-git init: initialized your repo
+-git status: show status
+-git add: ready for save current state of project
+-git commit: save you code in repo
+-git log --oneline: git log shorthand
+-git checkout {branch-nam}: switch in local repo
+-git branch : with default is master.
+-git checkout -b {branch name}: create a branch
+>>>>>>> dev
