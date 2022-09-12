@@ -1,7 +1,7 @@
 # Terms
 
 Repository (Repo) (ex GITHub_MyLearn)
-Branch
+Branch as a branch of a tree
 
 # Commands
 
@@ -13,3 +13,4 @@ rm -rf .git
 -git log --oneline: git log shorthand
 -git checkout {branch-nam}: switch in local repo
 -git branch : with default is master.
+-git checkout -b {branch name}: create a branch
