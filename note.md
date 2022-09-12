@@ -22,4 +22,7 @@ rm -rf .git
 -   git branch -d {branch-name}: delete a branch
 -   git push: push local repo up to remote repo
 -   git remote add {alias-name} link: to create alias
--   git push {alias-name} {branch-name}
+-   git push {alias-name} {branch-name}:
+-   git push -u {alias-name} {branch-name}: push form local to remote (remote didn't exist this branch)
+-   git fetch {alias-name}: download branch remote
+-   git checkout -b {branch-name} {alias-name}/{branch-name}
