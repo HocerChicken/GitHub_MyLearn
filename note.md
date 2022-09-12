@@ -21,3 +21,5 @@ rm -rf .git
 -   git merge {branch-name}: merge branch and master branch
 -   git branch -d {branch-name}: delete a branch
 -   git push: push local repo up to remote repo
+-   git remote add {alias-name} link: to create alias
+-   git push {alias-name} {branch-name}
