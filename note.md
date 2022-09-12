@@ -9,7 +9,6 @@ Remote
 # Commands
 
 rm -rf .git
-<<<<<<< HEAD
 
 -   git init: initialized your repo
 -   git status: show status
