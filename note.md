@@ -3,6 +3,8 @@
 Repository (Repo) (ex GITHub_MyLearn)
 Branch as a branch of a tree
 Conflict
+Local
+Remote
 
 # Commands
 
@@ -18,3 +20,4 @@ rm -rf .git
 -   git branch: with default is master.
 -   git merge {branch-name}: merge branch and master branch
 -   git branch -d {branch-name}: delete a branch
+-   git push: push local repo up to remote repo
